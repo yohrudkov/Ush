@@ -60,8 +60,8 @@ Implemented shell contain:
 <p align="center">
     <img alt="Example"
     title="Example"
-    src="https://github.com/yohrudkov/Pathfinder/blob/main/resources/map.jpg?raw=true"
-    width="300">
+    src="https://github.com/yohrudkov/Ush/blob/main/resources/example.jpg?raw=true"
+    width="400">
 </p>
 
 ### Compilation
@@ -71,7 +71,7 @@ Compile C-files with clang compiler and use these flags:\
 
 ### Initiation
 
-To begin to use Pathfinder project, run the following *`./ush`* exe file.
+To begin to use Ush project, run the following *`./ush`* exe file.
 
 ## Authors
 
