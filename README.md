@@ -76,6 +76,7 @@ To begin to use Ush project, run the following *`./ush`* exe file.
 ## Authors
 
 - Yaroslav Ohrudkov - *Program development* - [yohrudkov](https://github.com/yohrudkov)
+- Andrey Basisty - *Program development* - [vorobeyka](https://github.com/vorobeyka)
 
 ## License
 
