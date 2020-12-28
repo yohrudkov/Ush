@@ -1,4 +1,4 @@
-NAME = ushell
+NAME = ush
 
 TMP_DIR = ./obj
 

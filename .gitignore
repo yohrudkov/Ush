@@ -56,4 +56,4 @@ dkms.conf
 .vscode/
 .idea
 build/
-ushell
+ush
