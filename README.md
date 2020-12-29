@@ -67,7 +67,6 @@ Implemented shell contain:
 ### Compilation
 
 To compile Ush project, run the following *`make`* Makefile.
-To compile Uls project, run the following *`make`* Makefile.
 
 ### Initiation
 
