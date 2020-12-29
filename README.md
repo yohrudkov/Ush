@@ -66,8 +66,7 @@ Implemented shell contain:
 
 ### Compilation
 
-Compile C-files with clang compiler and use these flags:\
-*`clang -std=c11 -Wall -Wextra -Werror -Wpedantic`*.
+To compile Ush project, run the following *`make`* Makefile.
 
 ### Initiation
 
